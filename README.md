@@ -24,7 +24,7 @@ This project is an AI-powered version of the classic Flappy Bird game. The AI us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai-flappy-bird.git
+   git clone https://github.com/VNamanMehta/FlappyBirdAI.git
    cd ai-flappy-bird
    ```
 2. Install the required Python packages:
